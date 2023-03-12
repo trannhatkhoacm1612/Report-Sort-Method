@@ -3,12 +3,12 @@ Using **C(modulo)**, **C++** and **Python** to process compare the time between 
 
 ![feature-image](chart.png)
 
-# Guide to querry the ralative documents
+## Guide to querry the ralative documents
 
-## 1. Creat 10 datasets(ten files csv one line) by using python that located in *creat_data_and_visualize* folder.
+ 1. Creat 10 datasets(ten files csv one line) by using python that located in *creat_data_and_visualize* folder.
 
-## 2. Data csv file loacted in *data* folder  
+ 2. Data csv file loacted in *data* folder  
 
-## 3. In *code* folder, i use 3 sort moudlo and a modulo to preprocesisng data by using **C++**
+ 3. In *code* folder, i use 3 sort moudlo and a modulo to preprocesisng data by using **C++**
 
-## 4. The result is loacted in *time-sort* folder. Eachfile write down the time Sort method runs in accordance with file name. 
+ 4. The result is loacted in *time-sort* folder. Eachfile write down the time Sort method runs in accordance with file name. 
