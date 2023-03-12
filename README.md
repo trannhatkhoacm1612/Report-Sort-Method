@@ -9,6 +9,6 @@ Using **C(modulo)**, **C++** and **Python** to process compare the time between 
 
 ## 2. Data csv file loacted in *data* folder  
 
-** 3. In *code* folder, i use 3 sort moudlo and a modulo to preprocesisng data by using **C++**
+## 3. In *code* folder, i use 3 sort moudlo and a modulo to preprocesisng data by using **C++**
 
 ## 4. The result is loacted in *time-sort* folder. Eachfile write down the time Sort method runs in accordance with file name. 
