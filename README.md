@@ -5,7 +5,7 @@ Using **C(modulo)**, **C++** and **Python** to process compare the time between 
 
 ## Guide to querry the ralative documents
 
-### **Clone this repo to use easyly **
+### Clone this repo to use easily
 
  1. Creat 10 datasets(ten files csv one line) by using python that located in *creat_data_and_visualize* folder.
 
